@@ -345,8 +345,21 @@ defaults:
       read_time: true
       show_date: true
       breadcrumbs: true
+  # _non-game-software
+  - scope:
+      path: ""
+      type: non-game-software
+    values:
+      layout: single
+      author_profile: true 
+      read_time: true
+      show_date: true
+      breadcrumbs: true
 
 collections:
   video-games:
+    output: true
+    permalink: /:collection/:path/
+  non-game-software:
     output: true
     permalink: /:collection/:path/

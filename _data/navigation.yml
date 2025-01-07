@@ -1,3 +1,5 @@
 main:
   - title: "Video Games"
     url: /video-games/
+  - title: "Non-game Software"
+    url: /non-game-software/
