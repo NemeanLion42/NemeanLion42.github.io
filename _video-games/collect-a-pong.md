@@ -2,6 +2,9 @@
 title: "Collect-A-Pong"
 date: 2022-03-17
 ---
+[You can play the live build here!](https://nemeanlion42.github.io/Collect-A-Pong/){:target="_blank"}\
+[You can view the source here!](https://github.com/NemeanLion42/Collect-A-Pong){:target="_blank"}
+
 ![Demo](/assets/images/collect-a-pong-screenshot.png)
 
 # Overview
