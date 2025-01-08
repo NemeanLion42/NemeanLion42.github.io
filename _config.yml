@@ -335,6 +335,8 @@ defaults:
     values:
       layout: single
       author_profile: true 
+      sort_by: date
+      sort_order: reverse
   # _video-games
   - scope:
       path: ""
