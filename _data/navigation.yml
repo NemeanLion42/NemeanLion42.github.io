@@ -3,3 +3,5 @@ main:
     url: /video-games/
   - title: "Non-game Software"
     url: /non-game-software/
+  - title: "About"
+    url: /about/

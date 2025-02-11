@@ -360,8 +360,12 @@ defaults:
 
 collections:
   video-games:
+    title: Video Games
+    index: 1
     output: true
     permalink: /:collection/:path/
   non-game-software:
+    title: Non-game Software
+    index: 2
     output: true
     permalink: /:collection/:path/
