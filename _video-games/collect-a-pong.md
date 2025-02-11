@@ -8,7 +8,7 @@ date: 2022-03-17
 ![Demo](/assets/images/collect-a-pong-screenshot.png)
 
 # Overview
-This is a game I worked on as part of **CMS.611J/6.073 Creating Video Games** at MIT. This assignment entailed prototyping a game that focused on one primary mechanic and a small number of secondary mechanics.
+Collect-A-Pong is a game I worked on as part of **CMS.611J/6.073 Creating Video Games** at MIT. This assignment entailed prototyping a game that focused on one primary mechanic and a small number of secondary mechanics.
 
 # Mechanics
 As the inspiration behind this game was to make a spin on Pong, my team chose the primary mechanic "XY Movement on a plane" and considered several secondary mechanics over the course of prototyping:
